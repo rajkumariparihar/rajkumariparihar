@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am **Rajkumari Parihar** (FullStack Developer) with **12+ years** of expereince working in IT Industry.
+I am **Rajkumari Parihar** (FullStack Developer) with **13+ years** of expereince working in IT Industry.
 
 My expertise is in developing responsive and unique **Website/Mobile apps that give a seamless user experience. I set out to follow software best practices, which save time, money, and reputation in the long run. Some of these practices include version control, backups, documented code, and document preparation for APIs and other critical components required for large-scale apps. With a strong understanding of in-app marketing, 
 
